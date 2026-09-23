@@ -31,11 +31,12 @@ programacao-ciencia-de-dados/
 │   ├── exercicio-02/
 │   └── ...
 │
-├── trabalhos/
-│   ├── trabalho-01/
+├── estudos-independentes/
+│   ├── estudoIndependente01/
 │   └── ...
 │
-├── datasets/
+├── trabalhos/
+│   ├── trabalho-01/
 │   └── ...
 │
 └── README.md
