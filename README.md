@@ -35,7 +35,7 @@ programacao-ciencia-de-dados/
 │   ├── estudoIndependente01/
 │   └── ...
 │
-├── revisao/
+├── revisoes/
 │   ├── revisao01/
 │   └── ...
 │
