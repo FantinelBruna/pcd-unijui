@@ -22,21 +22,21 @@ A organização do repositório poderá seguir a seguinte estrutura:
 programacao-ciencia-de-dados/
 │
 ├── aulas/
-│   ├── aula01/
-│   ├── aula02/
+│   ├── aula03/
+│   ├── aula04/
 │   └── ...
 │
-├── exercicios/
-│   ├── exercicio-01/
-│   ├── exercicio-02/
+├── atividades/
+│   ├── atividadesAula03/
+│   ├── atividadesAula04/
 │   └── ...
 │
 ├── estudos-independentes/
 │   ├── estudoIndependente01/
 │   └── ...
 │
-├── trabalhos/
-│   ├── trabalho-01/
+├── revisao/
+│   ├── revisao01/
 │   └── ...
 │
 └── README.md
